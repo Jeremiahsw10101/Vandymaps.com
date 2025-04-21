@@ -1,4 +1,4 @@
-This is vandymaps.com a campus navigation tool for career center visitors.
+This is vandymaps.com, a campus navigation tool for career center visitors.
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
